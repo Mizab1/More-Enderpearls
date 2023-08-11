@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " d ",
+        "ded",
+        " d "
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:dirt"
+        },
+        "e": {
+            "item": "minecraft:ender_pearl"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "me:tnt_pearl"
+            }
+        }
+    },
+    "rewards": {
+        "function": "me:crafted_pearl/tnt_pearl"
+    }
+}
